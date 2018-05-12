@@ -1,0 +1,35 @@
+_repo: Winsome-Winnie-and-other-New-Nonsense-Novels_20633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2007-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Parodies'
+- !lcsh 'Humorous stories, Canadian'
+tableOfContents: Winsome Winnie; or, Trial and temptation -- John and I; or How I
+  nearly lost my husband -- The split in the cabinet; or, The fate of England -- Who
+  do you think did it? or, The mixed-up murder mystery -- Broken barriers; or, Red
+  love on a blue island -- The kidnapped plumber; a tale of the new time -- The blue
+  and the grey; a pre-war war story -- Buggam Grange; a good old ghost story.
+title: Winsome Winnie and other New Nonsense Novels
+url: http://www.gutenberg.org/ebooks/20633
